@@ -13,4 +13,7 @@ Um aplicativo focado para a organização familiar. Os usuários poderão criar 
 
 ![índice para o README](https://user-images.githubusercontent.com/62905577/114455103-bc8ff600-9bb1-11eb-90d3-ef89ffabde21.png)
 
+![Tela de fundo GIT HUB - indice UI](https://user-images.githubusercontent.com/62905577/120680122-54061c80-c470-11eb-832e-49cbb26eeb4c.png)
+
+
 
